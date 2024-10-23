@@ -164,17 +164,38 @@ ul {
     margin-left: 25px;
 }
 
+.polaroid-top {
+    width: 150px;
+    height: 175px;
+    background: pink;
+    margin-top: 15px;
+    display: inline-block
+    
+}
+
+.polaroid-top-1 {
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background: yellow;
+    position: absolute;
+}
+
+h4 {
+    color: red;
+}
+
 .polaroid1-outer {
     width: 150px;
-    height: 100px;
-    background: green;
-    margin-top: 15px;
+    height: 75px;
+    background: grey;
+    margin-top: -22px;
     text-align: center;
     
 }
 
-h4 {
-    margin-top: 30px;
-}
+
+
 
 
